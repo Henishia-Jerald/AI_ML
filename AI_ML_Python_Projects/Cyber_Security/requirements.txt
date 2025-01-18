@@ -1,0 +1,10 @@
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=0.24.0
+seaborn
+matplotlib
+catboost
+xgboost
+Flask
+
+# -e . #this will automatically trigger setup.py file
