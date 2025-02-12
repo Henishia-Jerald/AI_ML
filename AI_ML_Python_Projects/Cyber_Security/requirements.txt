@@ -6,4 +6,4 @@ matplotlib
 catboost
 xgboost
 Flask
-#-e . #this will automatically trigger setup.py file
+# -e . #this will automatically trigger setup.py file
