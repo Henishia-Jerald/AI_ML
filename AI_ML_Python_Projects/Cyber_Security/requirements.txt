@@ -6,4 +6,6 @@ matplotlib
 catboost
 xgboost
 Flask
+psycopg2-binary
+SQLAlchemy 
 # -e . #this will automatically trigger setup.py file
